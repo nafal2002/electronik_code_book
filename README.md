@@ -1,6 +1,6 @@
 # Enkripsi/Dekripsi Program
 
-![Header Image](gambar/ecb pc.PNG)
+![Header Image](./ecb pc.PNG)
 
 Program ini adalah implementasi sederhana dari algoritma enkripsi XOR dalam bahasa PHP. Program ini memungkinkan pengguna untuk melakukan enkripsi dan dekripsi teks menggunakan kunci biner.
 ## Deskripsi
@@ -206,7 +206,7 @@ integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cD
 ```
 
 ## Gambar versi bahasa Pyhton 
-[versi Image python](gambar/ECB PROGRAM.PNG)
+[versi Image python](./ECB PROGRAM.PNG)
 #kodingan yah
 ```python
 def hex_to_bin(hex_val):
