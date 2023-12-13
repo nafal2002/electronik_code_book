@@ -208,7 +208,7 @@ integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cD
 ## Gambar versi bahasa Pyhton 
 ![alt text](https://github.com/nafal2002/electronik_code_book/blob/master/ECB%20PROGRAM.PNG?raw=true)
 
-#kodingan yah
+## kodingan yah
 ```python
 def hex_to_bin(hex_val):
     return bin(int(hex_val, 16))[2:].zfill(4)
