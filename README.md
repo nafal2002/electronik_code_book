@@ -1,6 +1,6 @@
 # Enkripsi/Dekripsi Program
 
-![Header Image](ecb pc.PNG)
+![alt text](https://github.com/nafal2002/electronik_code_book/blob/master/ecb%20pc.PNG?raw=true)
 
 Program ini adalah implementasi sederhana dari algoritma enkripsi XOR dalam bahasa PHP. Program ini memungkinkan pengguna untuk melakukan enkripsi dan dekripsi teks menggunakan kunci biner.
 ## Deskripsi
@@ -206,7 +206,8 @@ integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cD
 ```
 
 ## Gambar versi bahasa Pyhton 
-[versi Image python](ECB PROGRAM.PNG)
+![alt text](https://github.com/nafal2002/electronik_code_book/blob/master/ECB%20PROGRAM.PNG?raw=true)
+
 #kodingan yah
 ```python
 def hex_to_bin(hex_val):
